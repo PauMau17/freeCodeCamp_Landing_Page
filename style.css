@@ -1,0 +1,128 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+#header {
+    width: 100%;
+    position: fixed;
+    background-color: #F2F3F4;
+    margin-top: -15px;
+    padding-top: 15px;
+}
+
+#header-img {
+    width: 20%;
+    display: inline;
+    margin-top: 10px;
+    margin-right: 650px;
+}
+
+ul,
+li {
+    display: inline-block;
+    text-decoration: none;
+    text-align: right;
+    font-size: 15px;
+}
+
+#encabezado {
+    display: inline-block;
+    text-align: center;
+    margin-top: 200px;
+    width: 100%;
+}
+
+#ingresa_email {
+    width: 20%;
+}
+
+#submit {
+    background-color: gold;
+    font-weight: bold;
+    padding: 5px;
+    margin-top: 15px;
+}
+
+#ofertas {
+    margin-top: 20px;
+    padding: 20px;
+    width: 100%;
+}
+
+.itemsOfertas {
+    display: inline-block;
+    width: 70%;
+    margin-top: 20px;
+    margin-left: 15%;
+    margin-right: 15%;
+    text-align: left;
+    padding-bottom: 80px;
+}
+
+i {
+    display: inline;
+    font-size: 90px;
+    margin-top: 80px;
+    margin-left: 50px;
+    color: #F1C40F;
+}
+
+.detalleOferta {
+    display: inline-block;
+    margin-left: 250px;
+    margin-top: -150px;
+    padding-right: 80px;
+}
+
+#videoDiv {
+    text-align: center;
+    margin-top: 20px;
+}
+
+#precios {
+    margin-top: 20px;
+    padding: 20px;
+    text-align: center;
+}
+
+.preciosPaq {
+    display: inline-block;
+    width: 300px;
+    height: 350px;
+    margin: 20px;
+    border: solid 3px silver;
+    text-align: center;
+}
+
+.instrumento {
+    width: 100%;
+    background-color: #CACFD2;
+    padding: 10px;
+}
+
+.price,
+p {
+    padding: 25px;
+}
+
+.select1 {
+    background-color: gold;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+#footer {
+    margin-top: 20px;
+    margin-right: 20px;
+    width: 100%;
+    text-decoration: none;
+    text-align: right;
+    background-color: #F2F3F4;
+}
+
+.footerList {
+    display: inline-block;
+    margin-right: 20px;
+    background-color: transparent;
+}
